@@ -27,8 +27,8 @@ multi-agent systems, and pattern libraries for the field.
 
 ### Links
 
-- LinkedIn — [linkedin.com/in/arthuramorim](https://www.linkedin.com/in/arthuramorim/)
-- Email — `arthur.amorim0211@gmail.com`
+- LinkedIn — [linkedin.com/in/arthuramorim](https://www.linkedin.com/in/arthur-amorim-cfp®-cga-cge-72511b160)
+- Email — `arthur._amorim@outlook.com`
 - Blog & newsletter — *coming soon*
 
 ---
