@@ -1,10 +1,11 @@
 ## Hi, I'm Arthur
 
-Financial advisor, financial planner, and wealth manager (CFP · CFA IF · CGA).
-Currently deployed as an AI engineer, building agentic systems for regulated finance.
+Wealth manager, financial advisor, and financial planner (CFP · CFA IF · CGA).
+Working in **Wealth Tech** — building **agentic AI systems** and applying
+emerging technologies to wealth workflows.
 
-4+ years in offshore wealth management. Now shipping RAG, evals, and
-multi-agent workflows.
+4+ years in offshore wealth management. Currently shipping evals,
+multi-agent systems, and pattern libraries for the field.
 
 > *"What survives contact with real users."*
 
@@ -12,9 +13,9 @@ multi-agent workflows.
 
 ### Currently building
 
-- **`finance-agent-evals`** — opinionated evals for LLM agents in regulated finance. *Inspect AI · Langfuse · dated model snapshots.* Shipping Q3 2026.
-- **`wealth-advisor-agent-toolkit`** — Claude Code plugin + MCP server + DXT bundle for wealth workflows. *Eval-gated CI.* Shipping Q4 2026.
-- **`regulated-ai-patterns`** — patterns from shipping LLMs in regulated domains. *Citable, not tutorial.* Drafts in progress.
+- **`finance-agent-evals`** — opinionated evals for LLM agents in finance and Wealth Tech. *Inspect AI · Langfuse · dated model snapshots.* Shipping Q3 2026.
+- **`wealth-advisor-agent-toolkit`** — Claude Code plugin + MCP server + DXT bundle for wealth advisor workflows. *Eval-gated CI.* Shipping Q4 2026.
+- **`regulated-ai-patterns`** — patterns from shipping AI systems in high-stakes domains. *Citable, not tutorial.* Drafts in progress.
 
 ### Selected work
 
