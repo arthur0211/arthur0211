@@ -4,7 +4,7 @@ Wealth manager, financial advisor, and financial planner (CFP · CGA).
 Working in **Wealth Tech** — building **agentic AI systems** and applying
 emerging technologies to wealth management and client relationship.
 
-5+ years in offshore wealth management. Currently shipping evals,
+5+ years in global wealth management. Currently shipping evals,
 multi-agent systems, and pattern libraries for the field.
 
 > *"What survives contact with real users."*
