@@ -1,7 +1,7 @@
 ## Hi, I'm Arthur
 
-Wealth manager, financial advisor, and financial planner (CFP · CGA).
-Working in **Wealth Tech** — building **agentic AI systems** and applying
+Wealth manager, financial advisor, and financial planner (CFP®).
+Working in **Wealth Tech**, building **agentic AI systems** and applying
 emerging technologies to wealth management and client relationship.
 
 5+ years in global wealth management. Currently shipping evals,
