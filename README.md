@@ -14,7 +14,3 @@ multi-agent systems, and pattern libraries for the field.
 - LinkedIn — [linkedin.com/in/arthuramorim](https://www.linkedin.com/in/arthur-amorim-cfp®-cga-cge-72511b160)
 - Email — `arthur._amorim@outlook.com`
 - Blog & newsletter — *coming soon*
-
----
-
-<sub>*On the business side, I write on LinkedIn. Technical work lives here.*</sub>
